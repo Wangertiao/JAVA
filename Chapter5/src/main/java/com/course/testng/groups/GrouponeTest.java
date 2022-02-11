@@ -11,6 +11,6 @@ import org.testng.annotations.Test;
 public class GrouponeTest {
 
     public void sjj() {
-        System.out.println("one 中的方法");
+        System.out.println("one 中的方法");;
     }
 }
